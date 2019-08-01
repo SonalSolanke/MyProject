@@ -1,0 +1,319 @@
+2019-07-03 17:02:43,847 - eBanking -INFO - URL is opened
+2019-07-03 17:02:47,116 - eBanking -INFO - Entered username
+2019-07-03 17:02:47,334 - eBanking -INFO - Entered password
+2019-07-03 17:02:53,797 - eBanking -INFO - Clloggericked on login button
+2019-07-03 17:02:53,833 - eBanking -INFO - Home page opened. Login test passed
+2019-07-07 19:40:32,154 - eBanking -INFO - URL is opened
+2019-07-07 19:40:38,004 - eBanking -INFO - Entered username
+2019-07-07 19:40:38,216 - eBanking -INFO - Entered password
+2019-07-07 19:40:43,881 - eBanking -INFO - Clicked on login button
+2019-07-07 19:40:43,906 - eBanking -INFO - Home page opened. Login test passed
+2019-07-09 18:54:11,052 - eBanking -INFO - URL is opened
+2019-07-09 18:54:19,061 - eBanking -INFO - Entered username
+2019-07-09 18:54:19,762 - eBanking -INFO - Entered password
+2019-07-09 18:54:23,641 - eBanking -INFO - Clicked on login button
+2019-07-09 18:54:23,660 - eBanking -INFO - Home page opened. Login test passed
+2019-07-09 19:17:20,444 - eBanking -INFO - URL is opened
+2019-07-09 19:17:26,657 - eBanking -INFO - Entered username
+2019-07-09 19:17:27,176 - eBanking -INFO - Entered password
+2019-07-10 04:05:18,229 - eBanking -INFO - URL is opened
+2019-07-10 04:05:25,481 - eBanking -INFO - Entered username
+2019-07-10 04:05:26,026 - eBanking -INFO - Entered password
+2019-07-10 04:05:29,439 - eBanking -INFO - Clicked on login button
+2019-07-10 04:05:29,465 - eBanking -INFO - Home page opened. Login test passed
+2019-07-10 04:11:48,444 - eBanking -INFO - URL is opened
+2019-07-10 04:11:53,649 - eBanking -INFO - Entered username
+2019-07-10 04:11:53,996 - eBanking -INFO - Entered password
+2019-07-10 04:12:00,329 - eBanking -INFO - Clicked on login button
+2019-07-10 04:12:00,366 - eBanking -INFO - Home page opened. Login test passed
+2019-07-10 04:16:14,209 - eBanking -INFO - URL is opened
+2019-07-10 04:16:22,272 - eBanking -INFO - Entered username
+2019-07-10 04:16:22,608 - eBanking -INFO - Entered password
+2019-07-10 04:16:23,719 - eBanking -INFO - Clicked on login button
+2019-07-10 04:33:06,808 - eBanking -INFO - URL is opened
+2019-07-10 04:33:12,609 - eBanking -INFO - Entered username
+2019-07-10 04:33:13,113 - eBanking -INFO - Entered password
+2019-07-10 04:33:13,886 - eBanking -INFO - Clicked on login button
+2019-07-10 04:35:52,573 - eBanking -INFO - URL is opened
+2019-07-10 04:35:57,722 - eBanking -INFO - Entered username
+2019-07-10 04:35:57,997 - eBanking -INFO - Entered password
+2019-07-10 04:35:58,898 - eBanking -INFO - Clicked on login button
+2019-07-10 04:37:11,793 - eBanking -INFO - URL is opened
+2019-07-10 04:37:17,174 - eBanking -INFO - Entered username
+2019-07-10 04:37:17,418 - eBanking -INFO - Entered password
+2019-07-10 04:37:22,709 - eBanking -INFO - Clicked on login button
+2019-07-10 04:45:37,364 - eBanking -INFO - URL is opened
+2019-07-10 04:45:40,664 - eBanking -INFO - Entered username
+2019-07-10 04:45:40,872 - eBanking -INFO - Entered password
+2019-07-10 04:45:45,295 - eBanking -INFO - Clicked on login button
+2019-07-10 06:15:27,038 - eBanking -INFO - DDT user is provided
+2019-07-10 06:15:27,262 - eBanking -INFO - DDT password is provided
+2019-07-10 06:15:31,285 - eBanking -INFO - Successful login
+2019-07-10 06:15:39,870 - eBanking -INFO - DDT user is provided
+2019-07-10 06:15:40,142 - eBanking -INFO - DDT password is provided
+2019-07-10 06:15:45,728 - eBanking -INFO - DDT user is provided
+2019-07-10 06:15:46,066 - eBanking -INFO - DDT password is provided
+2019-07-10 06:15:50,428 - eBanking -INFO - DDT user is provided
+2019-07-10 06:15:50,652 - eBanking -INFO - DDT password is provided
+2019-07-10 06:15:53,154 - eBanking -INFO - Successful login
+2019-07-10 06:15:58,432 - eBanking -INFO - DDT user is provided
+2019-07-10 06:15:58,664 - eBanking -INFO - DDT password is provided
+2019-07-10 06:18:53,013 - eBanking -INFO - DDT user is provided
+2019-07-10 06:18:53,486 - eBanking -INFO - DDT password is provided
+2019-07-10 06:18:56,029 - eBanking -INFO - Successful login
+2019-07-10 06:18:59,315 - eBanking -INFO - DDT user is provided
+2019-07-10 06:18:59,533 - eBanking -INFO - DDT password is provided
+2019-07-10 06:19:02,235 - eBanking -INFO - DDT user is provided
+2019-07-10 06:19:02,530 - eBanking -INFO - DDT password is provided
+2019-07-10 06:19:05,617 - eBanking -INFO - DDT user is provided
+2019-07-10 06:19:05,845 - eBanking -INFO - DDT password is provided
+2019-07-10 06:19:08,948 - eBanking -INFO - Successful login
+2019-07-10 06:19:13,807 - eBanking -INFO - DDT user is provided
+2019-07-10 06:19:13,989 - eBanking -INFO - DDT password is provided
+2019-07-10 06:21:34,618 - eBanking -INFO - DDT user is provided
+2019-07-10 06:21:34,889 - eBanking -INFO - DDT password is provided
+2019-07-10 06:21:37,939 - eBanking -INFO - Successful login
+2019-07-10 06:21:42,073 - eBanking -INFO - DDT user is provided
+2019-07-10 06:21:42,262 - eBanking -INFO - DDT password is provided
+2019-07-13 14:01:50,993 - eBanking -INFO - Entered username
+2019-07-13 14:01:51,353 - eBanking -INFO - Entered password
+2019-07-13 14:02:05,440 - eBanking -INFO - Clicked on login button
+2019-07-13 14:02:10,442 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 14:08:59,013 - eBanking -INFO - Entered username
+2019-07-13 14:08:59,245 - eBanking -INFO - Entered password
+2019-07-13 14:09:01,457 - eBanking -INFO - Clicked on login button
+2019-07-13 14:09:06,460 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 14:10:18,403 - eBanking -INFO - Entered username
+2019-07-13 14:10:18,861 - eBanking -INFO - Entered password
+2019-07-13 14:10:21,018 - eBanking -INFO - Clicked on login button
+2019-07-13 14:10:26,021 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 19:02:37,407 - eBanking -INFO - Entered username
+2019-07-13 19:02:37,969 - eBanking -INFO - Entered password
+2019-07-13 19:02:40,128 - eBanking -INFO - Clicked on login button
+2019-07-13 19:02:45,137 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 19:03:01,162 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 19:03:08,517 - eBanking -INFO - Successfylly submitted data
+2019-07-13 19:07:04,623 - eBanking -INFO - Entered username
+2019-07-13 19:07:04,980 - eBanking -INFO - Entered password
+2019-07-13 19:07:06,775 - eBanking -INFO - Clicked on login button
+2019-07-13 19:07:11,776 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 19:07:26,123 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 19:07:34,314 - eBanking -INFO - Successfylly submitted data
+2019-07-13 19:07:34,404 - eBanking -INFO - Customer registered Successfully
+2019-07-13 19:09:47,284 - eBanking -INFO - Entered username
+2019-07-13 19:09:47,816 - eBanking -INFO - Entered password
+2019-07-13 19:09:49,441 - eBanking -INFO - Clicked on login button
+2019-07-13 19:09:54,443 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 19:10:09,632 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 19:10:17,876 - eBanking -INFO - Successfylly submitted data
+2019-07-13 19:10:17,983 - eBanking -INFO - Customer registered Successfully
+2019-07-13 19:15:43,872 - eBanking -INFO - Entered username
+2019-07-13 19:15:44,323 - eBanking -INFO - Entered password
+2019-07-13 19:15:46,088 - eBanking -INFO - Clicked on login button
+2019-07-13 19:15:51,089 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 19:16:06,501 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 19:16:14,600 - eBanking -INFO - Successfylly submitted data
+2019-07-13 19:16:14,670 - eBanking -INFO - Customer registered Successfully
+2019-07-13 19:55:24,219 - eBanking -INFO - Entered username
+2019-07-13 19:55:24,668 - eBanking -INFO - Entered password
+2019-07-13 19:55:27,139 - eBanking -INFO - Clicked on login button
+2019-07-13 19:55:32,142 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 19:55:47,386 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 19:55:55,405 - eBanking -INFO - Successfylly submitted data
+2019-07-13 19:55:55,490 - eBanking -INFO - Customer registered Successfully
+2019-07-13 20:02:29,879 - eBanking -INFO - Entered username
+2019-07-13 20:02:31,693 - eBanking -INFO - Entered password
+2019-07-13 20:02:33,612 - eBanking -INFO - Clicked on login button
+2019-07-13 20:02:38,614 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 20:02:54,290 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 20:03:02,217 - eBanking -INFO - Successfylly submitted data
+2019-07-13 20:03:02,397 - eBanking -INFO - Customer registered Successfully
+2019-07-13 20:06:16,041 - eBanking -INFO - Entered username
+2019-07-13 20:06:16,611 - eBanking -INFO - Entered password
+2019-07-13 20:06:18,156 - eBanking -INFO - Clicked on login button
+2019-07-13 20:06:23,158 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 20:06:38,199 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 20:06:46,374 - eBanking -INFO - Successfylly submitted data
+2019-07-13 20:06:46,472 - eBanking -INFO - Customer registered Successfully
+2019-07-13 20:50:34,812 - eBanking -INFO - Entered username
+2019-07-13 20:50:35,078 - eBanking -INFO - Entered password
+2019-07-13 20:50:37,323 - eBanking -INFO - Clicked on login button
+2019-07-13 20:50:42,325 - eBanking -INFO - Navigate to add customer flow
+2019-07-13 20:50:56,944 - eBanking -INFO - All Fields Added Successfully
+2019-07-13 20:51:05,593 - eBanking -INFO - Successfylly submitted data
+2019-07-13 20:51:05,734 - eBanking -INFO - Customer registered Successfully
+2019-07-14 16:00:16,800 - eBanking -INFO - Entered username
+2019-07-14 16:00:17,270 - eBanking -INFO - Entered password
+2019-07-14 16:00:22,435 - eBanking -INFO - Clicked on login button
+2019-07-14 16:00:27,437 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 16:00:43,544 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 16:00:51,167 - eBanking -INFO - Successfylly submitted data
+2019-07-14 16:03:48,826 - eBanking -INFO - Entered username
+2019-07-14 16:03:49,086 - eBanking -INFO - Entered password
+2019-07-14 16:03:50,997 - eBanking -INFO - Clicked on login button
+2019-07-14 16:03:55,999 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 16:04:11,651 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 16:04:19,785 - eBanking -INFO - Successfylly submitted data
+2019-07-14 16:04:19,886 - eBanking -INFO - Customer registered Successfully
+2019-07-14 18:26:01,223 - eBanking -INFO - Entered username
+2019-07-14 18:26:01,968 - eBanking -INFO - Entered password
+2019-07-14 18:26:03,600 - eBanking -INFO - Clicked on login button
+2019-07-14 18:26:08,602 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 18:26:24,538 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 18:26:32,707 - eBanking -INFO - Successfylly submitted data
+2019-07-14 18:26:32,837 - eBanking -INFO - Customer registered Successfully
+2019-07-14 21:59:46,506 - eBanking -INFO - Entered username
+2019-07-14 21:59:46,955 - eBanking -INFO - Entered password
+2019-07-14 21:59:49,983 - eBanking -INFO - Clicked on login button
+2019-07-14 21:59:54,985 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 22:00:10,972 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 22:00:23,972 - eBanking -INFO - Successfylly submitted data
+2019-07-14 22:00:24,095 - eBanking -INFO - Customer registered Successfully
+2019-07-14 22:48:59,014 - eBanking -INFO - Entered username
+2019-07-14 22:49:00,500 - eBanking -INFO - Entered password
+2019-07-14 22:49:02,807 - eBanking -INFO - Clicked on login button
+2019-07-14 22:49:07,808 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 22:49:24,191 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 22:49:31,589 - eBanking -INFO - Successfylly submitted data
+2019-07-14 22:49:33,049 - eBanking -INFO - Error in registering customer. please check
+2019-07-14 22:50:27,111 - eBanking -INFO - Entered username
+2019-07-14 22:50:27,486 - eBanking -INFO - Entered password
+2019-07-14 22:50:29,537 - eBanking -INFO - Clicked on login button
+2019-07-14 22:50:34,539 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 22:50:50,747 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 22:50:59,046 - eBanking -INFO - Successfylly submitted data
+2019-07-14 22:50:59,654 - eBanking -INFO - Customer registered Successfully
+2019-07-14 22:56:43,373 - eBanking -INFO - Entered username
+2019-07-14 22:56:43,795 - eBanking -INFO - Entered password
+2019-07-14 22:56:46,433 - eBanking -INFO - Clicked on login button
+2019-07-14 22:56:51,435 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 22:57:07,202 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 22:57:15,833 - eBanking -INFO - Successfylly submitted data
+2019-07-14 22:57:15,886 - eBanking -INFO - Customer registered Successfully
+2019-07-14 23:10:49,312 - eBanking -INFO - Entered username
+2019-07-14 23:10:49,825 - eBanking -INFO - Entered password
+2019-07-14 23:10:51,634 - eBanking -INFO - Clicked on login button
+2019-07-14 23:10:56,636 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 23:11:12,365 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 23:11:19,670 - eBanking -INFO - Successfylly submitted data
+2019-07-14 23:11:20,768 - eBanking -INFO - Error in registering customer. please check
+2019-07-14 23:14:12,553 - eBanking -INFO - Entered username
+2019-07-14 23:14:12,954 - eBanking -INFO - Entered password
+2019-07-14 23:14:15,348 - eBanking -INFO - Clicked on login button
+2019-07-14 23:14:20,351 - eBanking -INFO - Navigate to add customer flow
+2019-07-14 23:14:36,225 - eBanking -INFO - All Fields Added Successfully
+2019-07-14 23:14:44,267 - eBanking -INFO - Successfylly submitted data
+2019-07-14 23:14:44,314 - eBanking -INFO - Customer registered Successfully
+2019-07-14 23:14:46,258 - eBanking -INFO - Add account Functionality Check: 
+2019-07-14 23:14:47,461 - eBanking -INFO - Clicked on add account link successfully
+2019-07-14 23:14:47,887 - eBanking -INFO - Entered cust ID 
+2019-07-14 23:14:48,793 - eBanking -INFO - Enter the Acc type to select
+2019-07-14 23:14:49,125 - eBanking -INFO - Enter initial deposit amount
+2019-07-14 23:14:50,897 - eBanking -INFO - New account data submitted
+2019-07-14 23:14:51,015 - eBanking -INFO - New account created successfully
+2019-07-15 10:28:32,552 - eBanking -INFO - Entered username
+2019-07-15 10:28:33,085 - eBanking -INFO - Entered password
+2019-07-15 10:28:35,446 - eBanking -INFO - Clicked on login button
+2019-07-15 10:28:40,447 - eBanking -INFO - Navigate to add customer flow
+2019-07-15 10:28:56,290 - eBanking -INFO - All Fields Added Successfully
+2019-07-15 10:29:04,377 - eBanking -INFO - Successfylly submitted data
+2019-07-15 10:29:04,464 - eBanking -INFO - Customer registered Successfully
+2019-07-15 10:29:07,095 - eBanking -INFO - Add account Functionality Check: 
+2019-07-15 10:29:08,339 - eBanking -INFO - Clicked on add account link successfully
+2019-07-15 10:29:08,791 - eBanking -INFO - Entered cust ID 
+2019-07-15 10:29:09,224 - eBanking -INFO - Enter the Acc type to select
+2019-07-15 10:29:09,441 - eBanking -INFO - Enter initial deposit amount
+2019-07-15 10:29:11,717 - eBanking -INFO - New account data submitted
+2019-07-15 10:29:11,814 - eBanking -INFO - New account created successfully
+2019-07-15 11:49:45,189 - eBanking -INFO - Entered username
+2019-07-15 11:49:47,008 - eBanking -INFO - Entered password
+2019-07-15 11:49:49,699 - eBanking -INFO - Clicked on login button
+2019-07-15 11:49:54,700 - eBanking -INFO - Navigate to add customer flow
+2019-07-15 11:50:10,021 - eBanking -INFO - All Fields Added Successfully
+2019-07-15 11:50:18,018 - eBanking -INFO - Successfylly submitted data
+2019-07-15 11:50:18,208 - eBanking -INFO - Customer registered Successfully
+2019-07-15 11:50:21,323 - eBanking -INFO - Add account Functionality Check: 
+2019-07-15 11:50:22,780 - eBanking -INFO - Clicked on add account link successfully
+2019-07-15 11:50:23,066 - eBanking -INFO - Entered cust ID 
+2019-07-15 11:50:23,429 - eBanking -INFO - Enter the Acc type to select
+2019-07-15 11:50:23,596 - eBanking -INFO - Enter initial deposit amount
+2019-07-15 11:50:25,043 - eBanking -INFO - New account data submitted
+2019-07-15 11:50:25,133 - eBanking -INFO - New account created successfully
+2019-07-15 11:50:28,302 - eBanking -INFO - Clicked on delete account link
+2019-07-15 11:50:28,616 - eBanking -INFO - Entered acc no to delete
+2019-07-15 11:50:28,834 - eBanking -INFO - Submit button clicked
+2019-07-15 11:50:28,896 - eBanking -INFO - Accepted delete account alert
+2019-07-15 11:52:42,021 - eBanking -INFO - Entered username
+2019-07-15 11:52:43,722 - eBanking -INFO - Entered password
+2019-07-15 11:52:46,522 - eBanking -INFO - Clicked on login button
+2019-07-15 11:52:51,525 - eBanking -INFO - Navigate to add customer flow
+2019-07-15 11:53:07,079 - eBanking -INFO - All Fields Added Successfully
+2019-07-15 11:53:15,230 - eBanking -INFO - Successfylly submitted data
+2019-07-15 11:53:15,329 - eBanking -INFO - Customer registered Successfully
+2019-07-15 11:53:18,210 - eBanking -INFO - Add account Functionality Check: 
+2019-07-15 11:53:19,635 - eBanking -INFO - Clicked on add account link successfully
+2019-07-15 11:53:20,067 - eBanking -INFO - Entered cust ID 
+2019-07-15 11:53:20,488 - eBanking -INFO - Enter the Acc type to select
+2019-07-15 11:53:20,713 - eBanking -INFO - Enter initial deposit amount
+2019-07-15 11:53:22,575 - eBanking -INFO - New account data submitted
+2019-07-15 11:53:22,678 - eBanking -INFO - New account created successfully
+2019-07-15 11:53:25,974 - eBanking -INFO - Clicked on delete account link
+2019-07-15 11:53:26,432 - eBanking -INFO - Entered acc no to delete
+2019-07-15 11:53:26,742 - eBanking -INFO - Submit button clicked
+2019-07-15 11:53:26,828 - eBanking -INFO - Accepted delete account alert
+2019-07-15 11:53:27,529 - eBanking -INFO - Moved to second alert
+2019-07-15 11:53:28,205 - eBanking -INFO - Account deleted successfully
+2019-07-15 12:14:54,387 - eBanking -INFO - Entered username
+2019-07-15 12:14:54,685 - eBanking -INFO - Entered password
+2019-07-15 12:14:57,049 - eBanking -INFO - Clicked on login button
+2019-07-15 12:15:02,050 - eBanking -INFO - Navigate to add customer flow
+2019-07-15 12:15:16,949 - eBanking -INFO - All Fields Added Successfully
+2019-07-15 12:15:25,024 - eBanking -INFO - Successfylly submitted data
+2019-07-15 12:15:25,115 - eBanking -INFO - Customer registered Successfully
+2019-07-15 12:15:27,986 - eBanking -INFO - Add account Functionality Check: 
+2019-07-15 12:15:29,317 - eBanking -INFO - Clicked on add account link successfully
+2019-07-15 12:15:29,746 - eBanking -INFO - Entered cust ID 
+2019-07-15 12:15:30,107 - eBanking -INFO - Enter the Acc type to select
+2019-07-15 12:15:30,317 - eBanking -INFO - Enter initial deposit amount
+2019-07-15 12:15:31,850 - eBanking -INFO - New account data submitted
+2019-07-15 12:15:31,934 - eBanking -INFO - New account created successfully
+2019-07-15 12:15:36,534 - eBanking -INFO - Clicked on delete account link
+2019-07-15 12:15:37,114 - eBanking -INFO - Entered acc no to delete
+2019-07-15 12:15:37,366 - eBanking -INFO - Submit button clicked
+2019-07-15 12:15:37,850 - eBanking -INFO - Accepted delete account alert
+2019-07-25 14:30:03,725 - eBanking -INFO - Entered username
+2019-07-25 14:30:04,270 - eBanking -INFO - Entered password
+2019-07-25 14:30:10,785 - eBanking -INFO - Clicked on login button
+2019-07-25 14:30:15,786 - eBanking -INFO - Navigate to add customer flow
+2019-07-25 14:30:33,770 - eBanking -INFO - All Fields Added Successfully
+2019-07-25 14:30:43,971 - eBanking -INFO - Successfylly submitted data
+2019-07-25 14:30:44,129 - eBanking -INFO - Customer registered Successfully
+2019-07-25 14:30:46,867 - eBanking -INFO - Add account Functionality Check: 
+2019-07-25 14:30:50,545 - eBanking -INFO - Clicked on add account link successfully
+2019-07-25 14:30:50,819 - eBanking -INFO - Entered cust ID 
+2019-07-25 14:30:51,247 - eBanking -INFO - Enter the Acc type to select
+2019-07-25 14:30:51,469 - eBanking -INFO - Enter initial deposit amount
+2019-07-25 14:30:54,753 - eBanking -INFO - New account data submitted
+2019-07-25 14:30:54,774 - eBanking -INFO - New account created successfully
+2019-07-25 14:30:59,880 - eBanking -INFO - Clicked on delete account link
+2019-07-25 14:31:00,189 - eBanking -INFO - Entered acc no to delete
+2019-07-25 14:31:00,486 - eBanking -INFO - Submit button clicked
+2019-07-25 14:31:01,063 - eBanking -INFO - Accepted delete account alert
+2019-07-25 14:33:25,052 - eBanking -INFO - Entered username
+2019-07-25 14:33:25,527 - eBanking -INFO - Entered password
+2019-07-25 14:33:31,541 - eBanking -INFO - Clicked on login button
+2019-07-25 14:33:36,542 - eBanking -INFO - Navigate to add customer flow
+2019-07-25 14:33:55,381 - eBanking -INFO - All Fields Added Successfully
+2019-07-25 14:34:04,641 - eBanking -INFO - Successfylly submitted data
+2019-07-25 14:34:04,679 - eBanking -INFO - Customer registered Successfully
+2019-07-25 14:34:07,132 - eBanking -INFO - Add account Functionality Check: 
+2019-07-25 14:34:11,046 - eBanking -INFO - Clicked on add account link successfully
+2019-07-25 14:34:11,595 - eBanking -INFO - Entered cust ID 
+2019-07-25 14:34:12,077 - eBanking -INFO - Enter the Acc type to select
+2019-07-25 14:34:12,377 - eBanking -INFO - Enter initial deposit amount
+2019-07-25 14:34:16,371 - eBanking -INFO - New account data submitted
+2019-07-25 14:34:16,413 - eBanking -INFO - New account created successfully
+2019-07-25 14:34:22,617 - eBanking -INFO - Clicked on delete account link
+2019-07-25 14:34:22,964 - eBanking -INFO - Entered acc no to delete
+2019-07-25 14:34:23,222 - eBanking -INFO - Submit button clicked
+2019-07-25 14:34:24,145 - eBanking -INFO - Accepted delete account alert
