@@ -6,6 +6,7 @@ public class A {
 	public static int data=5;
 	private int empid;
 	private String EmpName;
+	public static int sample=5;
 	
 	
 	public void display() 
