@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite   name="InetBankingV1" parallel = "methods" thread-count="3" >
+
+	<test name="BankingApp Test">
+	
+		<classes>	
+		
+		
+			<class name="sample.ParallelExecutionDemo" />
+			<!-- 
+				<class name="com.seleniumHybridFramework.testCases.TC_LoginPage_001" />
+				<class name="com.seleniumHybridFramework.testCases.TC_Login_DataDrivenTest_002" />
+				<class name="com.seleniumHybridFramework.testCases.TC_AddNewCustomerTest_003" />
+			 	<class name="com.seleniumHybridFramework.testCases.TC_EditCustomerTest_004" />
+			 	<class name="com.seleniumHybridFramework.testCases.TC_AddNewAccount_005" />
+			 -->
+		</classes>
+
+	</test>
+
+</suite>
+
+

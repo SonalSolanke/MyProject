@@ -32,7 +32,7 @@ public class XLUtils {
 		return rowcount;		
 	}
 	
-	
+	//column count
 	public static int getCellCount(String xlfile,String xlsheet,int rownum) throws IOException
 	{
 		fi=new FileInputStream(xlfile);

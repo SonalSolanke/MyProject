@@ -45,7 +45,7 @@ public class BaseClass {
 		}
 		
 		else if(br.equalsIgnoreCase("IE")) {
-			System.setProperty("webdriver.chrome.driver", rc.getChromeBrowserPath());
+			System.setProperty("webdriver.chrome.driver", rc.getChromeBrowserPath());  //set diff methods for IE and firefox
 			driver= new InternetExplorerDriver();
 		}
 		
@@ -65,8 +65,8 @@ public class BaseClass {
 	public void tearDown() {
 		driver.quit();
 	}
-	*/
 	
+	*/
 	public void CaptureScreen(WebDriver driver, String tname) throws IOException {
 		
 		TakesScreenshot ts=(TakesScreenshot)driver;
@@ -100,3 +100,4 @@ public class BaseClass {
 			}
 	
 }
+
